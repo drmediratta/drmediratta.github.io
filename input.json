@@ -1,0 +1,205 @@
+{
+    "drives": [
+        {
+            "driveDisplayText": "Drive 1",
+            "ipAddress": "192.168.1.10",
+            "resources": [
+                {
+                    "resourceName": "F000",
+                    "service": "getValues",
+                    "variables": [
+                        {
+                            "displayText": "JUst a var",
+                            "dataType": "R",
+                            "id": "R09683",
+                            "canWrite": false,
+                            "value": 0,
+                            "minValue": 0,
+                            "maxValue": 0
+                        },
+                        {
+                            "displayText": "Wgen1",
+                            "dataType": "R",
+                            "id": "W63556",
+                            "canWrite": false,
+                            "value": 0,
+                            "minValue": 0,
+                            "maxValue": 0
+                        },
+                        {
+                            "displayText": "canEdit 1",
+                            "dataType": "R",
+                            "id": "R04123",
+                            "canWrite": true,
+                            "value": 0,
+                            "minValue": 1,
+                            "maxValue": 10
+                        },
+                        {
+                            "displayText": "can Edit 2",
+                            "dataType": "R",
+                            "id": "R04124",
+                            "canWrite": true,
+                            "value": 0,
+                            "minValue": 0,
+                            "maxValue": 0
+                        },
+                        {
+                            "displayText": "Wgen2",
+                            "dataType": "R",
+                            "id": "W63412",
+                            "canWrite": false,
+                            "value": 0,
+                            "minValue": 0,
+                            "maxValue": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "driveDisplayText": "Drive 2",
+            "ipAddress": "192.168.1.11",
+            "resources": [
+                {
+                    "resourceName": "F000",
+                    "service": "getValues",
+                    "variables": [
+                        {
+                            "displayText": "JUst a var",
+                            "dataType": "R",
+                            "id": "R09683",
+                            "canWrite": false,
+                            "value": 0,
+                            "minValue": 0,
+                            "maxValue": 0
+                        },
+                        {
+                            "displayText": "Wgen1",
+                            "dataType": "R",
+                            "id": "W63556",
+                            "canWrite": false,
+                            "value": 0,
+                            "minValue": 0,
+                            "maxValue": 0
+                        },
+                        {
+                            "displayText": "canEdit 1",
+                            "dataType": "R",
+                            "id": "R04123",
+                            "canWrite": true,
+                            "value": 0,
+                            "minValue": 1,
+                            "maxValue": 10
+                        },
+                        {
+                            "displayText": "can Edit 2",
+                            "dataType": "R",
+                            "id": "R04124",
+                            "canWrite": true,
+                            "value": 0,
+                            "minValue": 0,
+                            "maxValue": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "driveDisplayText": "Drive 2",
+            "ipAddress": "192.168.1.12",
+            "resources": [
+                {
+                    "resourceName": "F000",
+                    "service": "getValues",
+                    "variables": [
+                        {
+                            "displayText": "JUst a var",
+                            "dataType": "R",
+                            "id": "R09683",
+                            "canWrite": false,
+                            "value": 0,
+                            "minValue": 0,
+                            "maxValue": 0
+                        },
+                        {
+                            "displayText": "Wgen1",
+                            "dataType": "R",
+                            "id": "W63556",
+                            "canWrite": false,
+                            "value": 0,
+                            "minValue": 0,
+                            "maxValue": 0
+                        },
+                        {
+                            "displayText": "canEdit 1",
+                            "dataType": "R",
+                            "id": "R04123",
+                            "canWrite": true,
+                            "value": 0,
+                            "minValue": 1,
+                            "maxValue": 10
+                        },
+                        {
+                            "displayText": "can Edit 2",
+                            "dataType": "R",
+                            "id": "R04124",
+                            "canWrite": true,
+                            "value": 0,
+                            "minValue": 0,
+                            "maxValue": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "driveDisplayText": "Drive 2",
+            "ipAddress": "192.168.1.13",
+            "resources": [
+                {
+                    "resourceName": "F000",
+                    "service": "getValues",
+                    "variables": [
+                        {
+                            "displayText": "JUst a var",
+                            "dataType": "R",
+                            "id": "R09683",
+                            "canWrite": false,
+                            "value": 0,
+                            "minValue": 0,
+                            "maxValue": 0
+                        },
+                        {
+                            "displayText": "Wgen1",
+                            "dataType": "R",
+                            "id": "W63556",
+                            "canWrite": false,
+                            "value": 0,
+                            "minValue": 0,
+                            "maxValue": 0
+                        },
+                        {
+                            "displayText": "canEdit 1",
+                            "dataType": "R",
+                            "id": "R04123",
+                            "canWrite": true,
+                            "value": 0,
+                            "minValue": 1,
+                            "maxValue": 10
+                        },
+                        {
+                            "displayText": "can Edit 2",
+                            "dataType": "R",
+                            "id": "R04124",
+                            "canWrite": true,
+                            "value": 0,
+                            "minValue": 0,
+                            "maxValue": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
